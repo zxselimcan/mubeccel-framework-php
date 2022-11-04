@@ -1,5 +1,5 @@
 
-
+yıllar önce yazdığım tatlı mı tatlı bir php framework.
 
 kurmak için php yükleyin ve terminale şu komutları yazın:
 
